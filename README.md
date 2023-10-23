@@ -1,0 +1,1 @@
+This project is part of the Odin Project course I took on web development to improve my skills and familiarity with HTML, CSS, JavaScript, and overall web development.
